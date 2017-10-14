@@ -26,7 +26,7 @@ Python libraries are available out of the box (as well as many other [client
 libraries][client_libraries]) and, if you're interested in building your own, there's a [protocol
 spec][protocol].
 
-We publish [binary releases][installing] for linux and darwin.
+We publish [binary releases][installing] for linux, darwin and Windows.
 
 NOTE: master is our *development* branch and may not be stable at all times.
 
